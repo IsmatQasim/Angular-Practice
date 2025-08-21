@@ -1,0 +1,97 @@
+/* ! Profile Card Styling */
+/* .profile-card {
+  position: absolute;
+  left: 40%;
+  padding: 20px;
+  text-align: center;
+  margin-top: 10%;
+  width: 400px;
+  background-color: beige;
+  border: 2px solid rgb(75, 72, 72);
+  border-top-left-radius: 60px;
+  border-bottom-left-radius: 60px;
+  border-top-right-radius: 60px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+}
+
+
+input{
+  display: block;
+  padding: 10px;
+  margin: 10px;
+  width: 84%;
+  background-color: transparent;
+  border-radius: 10px;
+} */
+
+/* ! Counter Styling */
+/* .counter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+
+}
+p{
+  font-size: 40px;
+  text-align: center;
+}
+button{
+  font-size: 30px;
+  background-color: transparent;
+  padding: 6px 20px;
+}
+
+.fBtn:hover{
+  background-color: rgb(175, 210, 121);
+}
+.lBtn:hover{
+  background-color: rgb(215, 65, 51);
+} */
+
+/* ! Todo Styling */
+/*
+.todo {
+  position: absolute;
+  left: 40%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  color: rgb(255, 255, 255);
+  font-size: 34px;
+}
+
+input {
+  padding: 7px 10px;
+  background-color: transparent;
+  border: 2px solid white;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-right: 4px;
+  color: white;
+}
+button {
+  background-color: transparent;
+  padding: 6px 10px;
+  color: white;
+  margin-top: 10px;
+  border-radius: 10px;
+  font-size: 16px;
+  border: 1px solid white;
+}
+button:hover {
+  background-color: grey;
+  color: black;
+}
+h1::before {
+  content: "📝 ";
+}
+
+li {
+  color: white;
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: 20px;
+  text-transform: capitalize;
+} */
